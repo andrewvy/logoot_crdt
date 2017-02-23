@@ -1,6 +1,6 @@
 # Logoot
 
-Logoot CRDT implementation in Elixir.
+[Logoot CRDT](https://hal.archives-ouvertes.fr/inria-00432368/document) implementation in Elixir.
 
 **DO NOT USE**: This is still a WIP and requires testing + documentation.
 
