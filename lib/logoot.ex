@@ -78,6 +78,7 @@ defmodule Logoot do
               :eq -> {:cont, [position_a | acc]}
             end
           end)
+          |> Enum.reverse()
 
         item_to_insert = %Item{
           item |
